@@ -9,7 +9,7 @@ int main()
     do {
         printf("Enter first number: ");
         scanf("%lf", &num1);
-
+.........
         printf("Enter an operator (+, -, *, /): ");
         scanf(" %c", &op);  // Space before %c to consume any leading whitespace
 
